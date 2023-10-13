@@ -1,0 +1,15 @@
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\bin\Debug\StresTesterCPU.exe.config
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\bin\Debug\StresTesterCPU.exe
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\bin\Debug\StresTesterCPU.pdb
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.csproj.AssemblyReference.cache
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\MainWindow.g.cs
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\App.g.cs
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU_MarkupCompile.cache
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\MainWindow.baml
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.g.resources
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.Properties.Resources.resources
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.csproj.GenerateResource.cache
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.csproj.CoreCompileInputs.cache
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.exe
+C:\Users\nicoh\RiderProjects\StresTesterCPU\StresTesterCPU\obj\Debug\StresTesterCPU.pdb
